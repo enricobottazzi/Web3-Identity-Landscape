@@ -37,6 +37,7 @@ Web3 social-based applications will eventually create better ways for people to 
 - [NFT meme - Fred Ehrsam](https://twitter.com/FEhrsam/status/1459227915053256708)
 - [Web3 is not about decentralization, is about digital owneship - Tommaso Tosi](https://twitter.com/tosi_tommaso/status/1480895337468366848)
 - [The Off Chain Internet: Decentralized Identity & Verifiable Credentials - Evin McMullen](https://www.youtube.com/watch?v=EZ_Bb6j87mg&t=7s)
+- [Web2 vs Web3 - @jay_drainjr](https://twitter.com/jay_drainjr/status/1479162409080090626?s=20&t=3wmhIRfp8PQCiiHcBEBJdw)
 
 ## To update and get in touch
 
