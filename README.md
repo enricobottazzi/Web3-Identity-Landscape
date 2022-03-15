@@ -32,9 +32,8 @@ Web3 social-based applicationswill eventually create better ways for people to e
 
 ## Valuable Resources
 
-[Web3 is self certifing](https://jaygraber.medium.com/web3-is-self-certifying-9dad77fd8d81)
-[NFT meme](https://twitter.com/FEhrsam/status/1459227915053256708)
-[Web3 is not about decentralization, is about digital owneship](https://twitter.com/tosi_tommaso/status/1480895337468366848)
-
- 
+- [Web3 is self certifing - Jay Graber](https://jaygraber.medium.com/web3-is-self-certifying-9dad77fd8d81)
+- [NFT meme - Fred Ehrsam](https://twitter.com/FEhrsam/status/1459227915053256708)
+- [Web3 is not about decentralization, is about digital owneship - Tommaso Tosi](https://twitter.com/tosi_tommaso/status/1480895337468366848)
+- [The Off Chain Internet: Decentralized Identity & Verifiable Credentials - Evin McMullen](https://www.youtube.com/watch?v=EZ_Bb6j87mg&t=7s)
 
