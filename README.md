@@ -1,4 +1,4 @@
-# The-Social-3.0-Primitives
+# The Social Web3 Primitives
 A curated list of projects and open-source primitives that will shape the way people express and interact on web3.
 
 ## The Thesis
