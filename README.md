@@ -15,8 +15,9 @@ The interoperable nature of the data primitives in web3 will improve our digital
 
 ** Add an image here **
 
-Web3 social-based applicationswill eventually create better ways for people to express themselves, coordinate, connect and interact on the web.
+Web3 social-based applications will eventually create better ways for people to express themselves, coordinate, connect and interact on the web.
 
+## Projects
 
 | Project Name     | Descrption      | Tech/Data Stack     | 
 | -------------    | --------        |  --------    |
@@ -37,3 +38,8 @@ Web3 social-based applicationswill eventually create better ways for people to e
 - [Web3 is not about decentralization, is about digital owneship - Tommaso Tosi](https://twitter.com/tosi_tommaso/status/1480895337468366848)
 - [The Off Chain Internet: Decentralized Identity & Verifiable Credentials - Evin McMullen](https://www.youtube.com/watch?v=EZ_Bb6j87mg&t=7s)
 
+## To update and get in touch
+
+To update the list of projects/resources you can either: 
+- Fork the project and make a PR with the modification
+- Hit me up on Discord enrico.eth#8998 
