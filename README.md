@@ -39,6 +39,7 @@ Web3 social-based applications will eventually create better ways for people to 
 - [The Off Chain Internet: Decentralized Identity & Verifiable Credentials - Evin McMullen](https://www.youtube.com/watch?v=EZ_Bb6j87mg&t=7s)
 - [Web2 vs Web3 - One login for the entire internet @jay_drainjr](https://twitter.com/jay_drainjr/status/1479162409080090626?s=20&t=3wmhIRfp8PQCiiHcBEBJdw)
 - [A primer for DID](https://w3c-ccg.github.io/did-primer/)
+- [Decentralized Identity - A16Z Future](https://future.a16z.com/decentralized-identity-on-chain-reputation/)
 
 ## To update and get in touch
 
