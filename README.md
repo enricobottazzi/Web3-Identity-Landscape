@@ -1,4 +1,4 @@
-# The Social Web3 Primitives
+# On-Chain Identity
 A curated list of projects and open-source primitives that will shape the way people express and interact on web3.
 
 ## The Thesis
@@ -40,6 +40,8 @@ Web3 social-based applications will eventually create better ways for people to 
 - [Web2 vs Web3 - One login for the entire internet @jay_drainjr](https://twitter.com/jay_drainjr/status/1479162409080090626?s=20&t=3wmhIRfp8PQCiiHcBEBJdw)
 - [A primer for DID](https://w3c-ccg.github.io/did-primer/)
 - [Decentralized Identity - A16Z Future](https://future.a16z.com/decentralized-identity-on-chain-reputation/)
+- [On-chain identity landscape](https://mirror.xyz/shreyjain.eth/TyBzMOegl3rMNxpAFoJ36MjE0pGfdLcrVCBgy-x3qS8)
+- [The Evolution of Identity - Michael Sena](https://www.youtube.com/watch?v=TJ3KAhnZVCA)
 
 ## To update and get in touch
 
