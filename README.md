@@ -1,4 +1,4 @@
-# On-Chain Identity
+# The Web3 Identity Landscape
 A curated list of projects and open-source primitives that will shape the way people express and interact on web3.
 
 ## The Thesis
